@@ -7,11 +7,9 @@ The **Diversified Investment Portfolio** project aims to predict and analyze the
 - **Stock Prediction**: Forecasts future stock prices using historical data.
 - **Cryptocurrency Analysis**: Predicts trends in the cryptocurrency market.
 - **Mutual Fund Evaluation**: Assesses mutual fund performance and suitability.
-- **Data Visualization**: Power BI dashboards to visualize the portfolio and trends.
 
 ## Technologies Used
 - Python for data analysis and machine learning.
-- Libraries like pandas.
 - Various machine learning models for prediction.
 
 ## Installation Instructions
