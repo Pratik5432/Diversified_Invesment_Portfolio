@@ -11,7 +11,7 @@ The **Diversified Investment Portfolio** project aims to predict and analyze the
 
 ## Technologies Used
 - Python for data analysis and machine learning.
-- Power BI for creating interactive visualizations.
+- Libraries like pandas.
 - Various machine learning models for prediction.
 
 ## Installation Instructions
@@ -20,16 +20,12 @@ Follow the instructions in the repository to set up the project on your local ma
 ## How to Use
 1. Load the provided datasets.
 2. Run the analysis scripts for each asset class (stocks, crypto, mutual funds).
-3. Visualize the insights using the Power BI dashboard.
 
 ## Folder Structure
 - **Stock Prediction**: Scripts related to stock price forecasting.
 - **Crypto Prediction**: Cryptocurrency trend analysis scripts.
 - **Mutual Funds**: Scripts evaluating mutual fund performance.
 - **INVE..._PORTFOLIO.pptx**: PowerPoint presentation summarizing the insights.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contributing
 If you would like to contribute, feel free to fork the repository, create a new branch, and submit a pull request with your changes.
